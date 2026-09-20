@@ -1,4 +1,4 @@
-# Java Console Calculator
+# java-console-calculator
 
 A simple console-based calculator built using Java.
 
